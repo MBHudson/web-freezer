@@ -1,5 +1,6 @@
-#Web Freezer
-###How to use
+# Web Freezer
+
+### How to use
 
 1. open `index.html` in your web browser
 
